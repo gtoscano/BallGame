@@ -1,6 +1,7 @@
 // Ball — iostream version. Type w/a/s/d + Enter to move the ball, q to quit.
 // The screen is drawn with two for loops: one for the rows, one for the columns.
 // If the ball leaves the grid, the loops never reach its position: it disappears.
+// Gregorio Toscano
 #include <iostream>
 
 constexpr int width  = 20;
